@@ -1,4 +1,4 @@
-![eyeball](https://carsuki.moe/img/eyeball-large.png)
+<img src="https://carsuki.moe/img/eyeball-large.png" style="display:block;margin-left:auto;margin-right:auto;width:200px;">
 
 ### Thank you for your enjoyment.
 
