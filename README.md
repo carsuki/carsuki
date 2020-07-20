@@ -1,4 +1,6 @@
-### Hi there 👋
+![eyeball](https://carsuki.moe/img/eyeball-large.png)
+
+### Thank you for your enjoyment.
 
 <!--
 **carsuki/carsuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
