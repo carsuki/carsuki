@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://carsuki.moe/img/eyeball-large.png" width="500">
+  <img src="https://carsuki.moe/img/eyeball.png" width="500">
 </p>
 
 ### Thank you for your enjoyment.
