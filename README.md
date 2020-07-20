@@ -1,4 +1,5 @@
-<img src="https://carsuki.moe/img/eyeball-large.png" width="400" align="center">
+<img src="https://carsuki.moe/img/eyeball-large.png" width="500" align="center">
+
 ### Thank you for your enjoyment.
 
 <!--
