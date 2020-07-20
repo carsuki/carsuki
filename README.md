@@ -2,7 +2,7 @@
   <img src="https://i.vgy.me/TMxAxP.png" width="800">
 </p>
 
-<p align="center"><b>Thank you for your enjoyment.</b></p>
+<h2 align="center"><b>Thank you for your enjoyment.</b></h2>
 
 <!--
 **carsuki/carsuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
